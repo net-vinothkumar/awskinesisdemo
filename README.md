@@ -7,4 +7,7 @@ Write lambda writes data to AWS Kinesis and another Read lambda reads the data f
 
 ![kinesis](https://user-images.githubusercontent.com/30971809/65073092-6ab1ca80-d992-11e9-871e-26eb962f4b70.png)
 
+<img width="1105" alt="Screen Shot 2019-09-18 at 21 49 07" src="https://user-images.githubusercontent.com/30971809/65180912-36a3db80-da5e-11e9-8d2f-16bc83992e13.png">
+
+
 
