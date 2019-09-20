@@ -1,5 +1,12 @@
 # awskinesisdemo
+# What is AWS Kinesis Data Stream ?
+a. It is a massively scalable.
+b. real-time data streaming service
+c. It can continuously capture gigabytes of data per second from hundreds of thousands of sources such as website clickstreams, database event streams, financial transactions, social media feeds, IT logs, and location-tracking events.
 Write lambda writes data to AWS Kinesis and another Read lambda reads the data from AWS Kinesis.
+
+# How its helpful ?
+The data collected by AWS Kinesis Data Stream is available in milliseconds to enable real-time analytics use cases such as real-time dashboards, real-time anomaly detection, dynamic pricing.
 
 ![services-of-kinesis](https://user-images.githubusercontent.com/30971809/65175591-68637500-da53-11e9-9c88-c305bef7a721.png)
 
