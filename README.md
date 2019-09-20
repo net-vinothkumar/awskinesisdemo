@@ -1,7 +1,7 @@
 # awskinesisdemo
 # What is AWS Kinesis Data Stream ?
 a. It is a massively scalable.\
-b. real-time data streaming service.\
+b. Real-time data streaming service.\
 c. It can continuously capture gigabytes of data per second from hundreds of thousands of sources such as website clickstreams, database event streams, financial transactions, social media feeds, IT logs, and location-tracking events.
 
 
