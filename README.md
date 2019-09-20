@@ -1,4 +1,7 @@
 # awskinesisdemo
+
+# Real time data need to stored and processed efficiently.
+
 # What is AWS Kinesis Data Stream ?
 a. It is a massively scalable.\
 b. Real-time data streaming service.\
