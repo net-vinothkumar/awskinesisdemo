@@ -8,7 +8,7 @@ b. Real-time data streaming service.\
 c. It can continuously capture gigabytes of data per second from hundreds of thousands of sources such as website clickstreams, database event streams, financial transactions, social media feeds, IT logs, and location-tracking events.
 d. It reads the data in records.\
 e. It can scale up and down so that we don't loose the incoming data.\
-f.Multiple consumer can consume the same data concurrently.
+f. Multiple consumer can consume the same data concurrently.
 
 # How its helpful ?
 The data collected by AWS Kinesis Data Stream is available in milliseconds to enable real-time analytics use cases such as real-time dashboards, real-time anomaly detection, dynamic pricing.
