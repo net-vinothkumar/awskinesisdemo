@@ -10,6 +10,9 @@ d. It reads the data in records.\
 e. It can scale up and down so that we don't loose the incoming data.\
 f. Multiple consumer can consume the same data concurrently.
 
+![introduction-to-realtime-streaming-data-and-amazon-kinesis-streaming-data-ingestion-with-firehose-25-638](https://user-images.githubusercontent.com/30971809/65378600-fa20eb80-dcba-11e9-9444-1bbc11867473.jpg)
+
+
 # How its helpful ?
 The data collected by AWS Kinesis Data Stream is available in milliseconds to enable real-time analytics use cases such as real-time dashboards, real-time anomaly detection, dynamic pricing.
 
