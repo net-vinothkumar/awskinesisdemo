@@ -1,4 +1,4 @@
-# awskinesisdemo
+# AWS Kinesis Demo
 
 # Real time data need to be processed efficiently.
 
